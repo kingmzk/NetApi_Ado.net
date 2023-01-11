@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetApi_Register_Login", "NetApi_Register_Login\NetApi_Register_Login.csproj", "{77D2B797-F7C2-4C9F-927C-050FD7268C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D2B797-F7C2-4C9F-927C-050FD7268C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D2B797-F7C2-4C9F-927C-050FD7268C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D2B797-F7C2-4C9F-927C-050FD7268C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D2B797-F7C2-4C9F-927C-050FD7268C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FBB5D73-60D9-4763-8DF0-616624BC483F}
+	EndGlobalSection
+EndGlobal
